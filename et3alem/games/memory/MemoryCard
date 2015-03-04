@@ -1,0 +1,27 @@
+@@ -0,0 +1,26 @@
+﻿package et3alem.games.memory
+{
+
+	public class MemoryCard
+	{
+		public var originX:Number;
+		public var originY:Number;
+		public var shape:MovieClip;
+
+		public function MemoryCard()
+		{
+			// constructor code
+		}
+		
+		public function flipOver():void
+		{
+			
+		}
+
+	public function flipBack():void
+		{
+			
+		}
+	}
+
+}
